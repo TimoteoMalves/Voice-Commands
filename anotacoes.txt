@@ -1,0 +1,8 @@
+Para dia 25/04
+
+- criar um repo no git e mandar link 
+- mandar strings para arduino
+- pegar arduino ou outra placa e fazer um servidor que receba os comando por wifi (sem conectara no pc)
+- achar dispositivo para comandara (lampada...)
+- ?speaker (pra conversar comigo, musica...)
+- display (printar os comandos)
